@@ -23,4 +23,4 @@ inicio
        FimPara
 fimalgoritmo
 
-//teste de comit para o github
+//teste 02 de comit para o github
