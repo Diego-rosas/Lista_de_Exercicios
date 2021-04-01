@@ -1,8 +1,7 @@
 algoritmo "86"
-// Função : procedimento Gerador, traz um componente visal para a mensagem "Ol[a, Mundo!"
-// Autor :
+// FunÃ§Ã£o : procedimento Gerador, traz um componente visual para a mensagem "Ola, Mundo!"
+// Autor : Diego Rosas
 // Data : 29/03/2021
-// Seção de Declarações 
 var
 
 procedimento Gerador()
