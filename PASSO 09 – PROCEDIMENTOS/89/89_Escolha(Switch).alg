@@ -8,7 +8,7 @@ algoritmo "89_Escolha(Switch)"
 var
    C: Inteiro
 
-Procedimento Gerador(M: caractere; N, B: Inteiro) // N = qtd de vex que vai repetir a frase e B = o tipo de borda
+Procedimento Gerador(M: caractere; N, B: Inteiro) // N = qtd de vezes que vai repetir a frase e B = o tipo de borda.
 inicio
       Escolha B
          Caso 1
