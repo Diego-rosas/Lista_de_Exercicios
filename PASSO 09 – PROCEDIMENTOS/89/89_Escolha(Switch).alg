@@ -32,6 +32,6 @@ inicio
       FimEscolha
 FimProcedimento
 inicio
-      Gerador("     Aprendendo Portugol", 3,3)
+      Gerador("     Aprendendo Portugol", 3,3) // N,B
 
 fimalgoritmo
