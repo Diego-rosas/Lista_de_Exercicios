@@ -1,7 +1,7 @@
 algoritmo "89_Escolha(Switch)"
 // Funcao : Programa para melhorar o procedimento Gerador() do exercicio 88.
 //          Nessa questao pede para pepetir a frase 3x e para que possa escolher um tipo de borda diferente.
-//          Para reproduir isso usei uma estrutura de repetiçao(Para), dentro de uma estrutura condicinal
+//          Para reproduir isso usei uma estrutura de repeticao(Para), dentro de uma estrutura condicinal
 //          Escolha(Switch), para cada opcao de borda.
 // Autor :  Diego Rosas
 // Data : 31/03/2021
