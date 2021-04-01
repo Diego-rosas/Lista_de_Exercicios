@@ -1,8 +1,7 @@
 algoritmo "87"
-// Função : Programa para melhorar o procedimento Gerador() do exercicio 86.
-// Autor :
+// FunÃ§Ã£o : Programa para melhorar o procedimento Gerador() do exercicio 86.
+// Autor : Diego Rosas
 // Data : 29/03/2021
-// Seção de Declarações 
 var
    msg: Caractere
    
