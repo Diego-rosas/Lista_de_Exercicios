@@ -1,10 +1,20 @@
 algoritmo "87"
-// Função :
+// Função : Programa para melhorar o procedimento Gerador() do exercicio 86.
 // Autor :
 // Data : 29/03/2021
 // Seção de Declarações 
 var
-
+   msg: Caractere
+   
+procedimento Gerador(M: Caractere)
 inicio
-// Seção de Comandos 
+      EscrevaL("+--------===========-----------+")
+      EscrevaL(M)
+      EscrevaL("+--------===========-----------+")
+FimProcedimento
+inicio
+//      msg <- "       Aprendendo Portugol"  - Aqui foi teste para ver como ficava passando a mengagem
+//                                             de uma variavel global para o escopo do procedimento.
+      Gerador("       Aprendendo Portugol")
+
 fimalgoritmo
