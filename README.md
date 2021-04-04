@@ -6,3 +6,6 @@
 O programa usado pra escrever os cógidos foi o Visuald V2.5.
 
 Neste curso foi utilizado o Pseudocódigo ou Portugol.
+
+--------Repositório em construção!------------
+
