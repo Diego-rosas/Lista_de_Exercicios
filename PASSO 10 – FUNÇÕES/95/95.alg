@@ -1,5 +1,7 @@
 algoritmo "95"
-// Funcao:
+// Funcao: Algoritmo que le dois valores pelo teclado e passa eles para a
+//          funcao Somador(), que calcula a soma entre eles e retorna o resultado
+//          para ser exibido pelo algoritmo principal.
 // Autor: Diego Rosas
 // Data : 28/04/2021
 
