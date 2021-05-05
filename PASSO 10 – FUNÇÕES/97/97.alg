@@ -1,5 +1,7 @@
 algoritmo "97"
-// Funcao:
+// Funcao: Refatoracao do exercicio 91, mas agora a funcao Maior() vai receber
+//	   3 numeros como parametro e vai fazer uma comparacao entre ele e vai 
+//	   retornar o maior numero para o programa principal, vai imprimi-lo.
 // Autor:  Diego Rosas
 // Data : 29/04/2021
 var
