@@ -1,5 +1,8 @@
 algoritmo "98"
-// Funcao:
+// Funcao:  Programa que le dois numeros pelo teclado e passa eles para a
+//          funcao SuperSomador(), que calcula a soma de todos os numeros do
+//          primeiro ate o segundo, por Ex. de 1 ate 6 = 21, e retorna o resultado
+//          para ser exibido pelo algoritmo principal.
 // Autor: Diego Rosas
 // Data : 05/05/2021
 var
