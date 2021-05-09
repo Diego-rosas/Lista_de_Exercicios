@@ -1,5 +1,5 @@
 algoritmo "72_1"
-// Função : O programa preenche automaticamente um vetor de 0 ate 9 com uma contagem crescente de 5 ate 50,
+// Funcao : O programa preenche automaticamente um vetor de 0 ate 9 com uma contagem crescente de 5 ate 50,
 //          usando o laco de repeticao PARA pra preencher o veto.
 // Autor : Diego Rosas
 // Data : 09/05/2021
