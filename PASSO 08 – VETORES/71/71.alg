@@ -1,7 +1,7 @@
 algoritmo "71"
-// Função :
-// Autor : Diego Rosas
-// Data : 09/05/2021
+// Funcao: Um vetor eh preenchido automaticamente com um valor que recebede uma variavel.
+// Autor: Diego Rosas
+// Data: 09/05/2021
 var
    N, i: Inteiro
    vet: vetor[1..8] de Inteiro
