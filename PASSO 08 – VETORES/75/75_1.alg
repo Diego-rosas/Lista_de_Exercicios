@@ -24,5 +24,4 @@ inicio
            Escreva(l)
            EscrevaL(" -- |", vet[l])
       FimPara
-
 fimalgoritmo
