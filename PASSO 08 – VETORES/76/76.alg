@@ -1,6 +1,6 @@
 algoritmo "76"
 // Funcao : Programa que gera 7 numeros aleatorios entre 0 e 6 e joga direto dentro do vetor, que eh preencido usando a repeticao PARA.
-// Autor :
+// Autor : Diego Rosas
 // Data : 14/05/2021
 var
    n, i, j: Inteiro
