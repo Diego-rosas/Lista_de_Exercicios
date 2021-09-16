@@ -1,5 +1,5 @@
 algoritmo "82"
-// Função :  Programa leh as notas de 10 alunos e as guarda em um vetor de 10 posicoes. Depois usamos vetores e repeticoes para
+// Funcoo :  Programa leh as notas de 10 alunos e as guarda em um vetor de 10 posicoes. Depois usamos vetores e repeticoes para
 //          calcular e imprimir a media da turma, quantos alunos estao acima da media, qual a maior nota digitada e em que
 //          posicao ela aparece.
 // Autor : Diego Rosas
