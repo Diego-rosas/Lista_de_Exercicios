@@ -1,5 +1,6 @@
 algoritmo "85"
-// Funcao :
+// Funcao :    Algoritmo que leh o nome, o sexo e o salario de 5 funcionarios e guarda esses dados em tres vetores.
+//            No final, mostra uma listagem contendo apenas os dados das funcionarias mulheres que ganham mais de R$5 mil.
 // Autor : Diego Rosas
 // Data : 15/09/2021
 var
