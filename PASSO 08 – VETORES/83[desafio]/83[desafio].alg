@@ -1,5 +1,5 @@
 algoritmo "83[desafio]"
-// Função :   Logica que preenche um vetor de 20 posicoes com numeros aleatorios (entre 0 e 99) gerados pelo computador.
+// Funcao :   Logica que preenche um vetor de 20 posicoes com numeros aleatorios (entre 0 e 99) gerados pelo computador.
 //          Logo em seguida, mostro os numeros gerados e depois coloquo o vetor em ordem crescente, mostrando no final
 //          os valores ordenados.
 // Autor : Diego Rosas
