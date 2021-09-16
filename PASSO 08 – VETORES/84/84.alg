@@ -1,5 +1,5 @@
 algoritmo "84"
-// Função :    Programa que leh o nome e a idade de 9 pessoas e guarda esses valores em dois vetores, em posições relacionadas.
+// Funcao :    Programa que leh o nome e a idade de 9 pessoas e guarda esses valores em dois vetores, em posicoes relacionadas.
 //            No final, mostra uma listagem contendo apenas os dados das pessoas menores de idade.
 // Autor : Diego Rosas
 // Data : 15/09/2021
